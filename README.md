@@ -2,8 +2,7 @@
 
 Este repositório organiza minha trilha pessoal de estudos em Ciência de Dados.
 
-Meu foco não é aprender Data Science rápido apenas para operar ferramentas.
-Quero construir uma base forte em matemática, estatística e raciocínio analítico para conseguir entender problemas, analisar dados com profundidade e evoluir com consistência.
+Quero construir uma base forte em matemática, estatística e raciocínio analítico para entender problemas com profundidade, testar hipóteses, analisar dados com clareza e evoluir com consistência.
 
 ---
 
@@ -12,14 +11,22 @@ Quero construir uma base forte em matemática, estatística e raciocínio analí
 - começar pela base
 - estudar com calma
 - unir teoria e prática
-- registrar evolução
-- construir capacidade real de resolver problemas
+- construir profundidade antes de velocidade
+- desenvolver capacidade real de resolver problemas
 
-A prioridade inicial está em:
-- matemática
-- estatística
-- Python e SQL como apoio
-- prática com exercícios e notebooks
+---
+
+## Direção da jornada
+
+A trilha seguirá, de forma gradual, esta direção:
+
+1. Matemática
+2. Estatística
+3. Programação para dados
+4. Análise exploratória de dados
+5. Machine Learning
+6. Deep Learning
+7. MLOps
 
 ---
 
@@ -42,26 +49,47 @@ A prioridade inicial está em:
 
 ---
 
-## Estrutura da jornada
+## Largada da trilha
 
-A trilha seguirá, de forma gradual, esta direção:
+### Fase 0 — Preparação
+- organizar repositório
+- definir rotina mínima
+- separar materiais
+- iniciar acompanhamento de progresso
 
-1. Matemática
-2. Estatística
-3. Programação para dados
-4. Análise exploratória de dados
-5. Machine Learning
-6. Deep Learning
-7. MLOps
+### Fase 1 — Fundação inicial
+- álgebra básica
+- funções
+- gráficos
+- estatística descritiva
+
+### Fase 2 — Ponte matemática e probabilidade
+- pré-cálculo
+- probabilidade
+- amostragem
+- variáveis aleatórias
+
+### Fase 3 — Inferência estatística
+- distribuição amostral
+- CLT
+- intervalos de confiança
+- testes de hipótese
+
+### Fase 4 — Entrada madura em DS
+- EDA
+- regressão inicial
+- desenho de experimentos
+- A/B testing
+- SQL mais aplicado
 
 ---
 
 ## Materiais atuais
 
 ### Livros
-- Pense em Estatística
-- A arte da estatística
-- Pré-Cálculo – Uma Preparação para o Cálculo
+- **Pense em Estatística**
+- **A arte da estatística**
+- **Pré-Cálculo – Uma Preparação para o Cálculo**
 
 ### Cursos
 - Estatísticas para Ciência de Dados com Python
@@ -78,6 +106,16 @@ A trilha seguirá, de forma gradual, esta direção:
 - [Livros e ordem de leitura](./livros/README.md)
 - [Cursos e trilhas complementares](./cursos/README.md)
 - [Progresso e checkpoints](./progresso/README.md)
+
+---
+
+## Regras da trilha
+
+- a base vem antes da pressa
+- Python e SQL funcionam como apoio da teoria
+- cursos complementam, mas não substituem fundamentos
+- não estudar muitas frentes pesadas ao mesmo tempo
+- registrar progresso e ajustar a rota quando necessário
 
 ---
 
