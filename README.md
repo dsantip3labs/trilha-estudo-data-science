@@ -4,248 +4,236 @@
 
 Este repositório é minha trilha pessoal de estudos em Ciência de Dados.
 
-Quero evoluir com profundidade, entendendo:
-- os fundamentos matemáticos
+Meu foco não é aprender Data Science rápido.
+Meu objetivo é construir uma base forte em matemática, estatística e raciocínio analítico para conseguir resolver problemas com profundidade, e não apenas operar ferramentas.
+
+Quero aprender:
+- a base matemática
 - a lógica estatística
 - a inferência por trás das análises
 - a estrutura dos problemas
 - a aplicação prática em Ciência de Dados
 
+---
+
 ## Filosofia da trilha
 
 A proposta desta trilha é:
 
-- começar pela base
-- estudar com calma
+- começar pelos fundamentos
+- estudar com calma e consistência
 - evitar pular etapas
 - unir teoria e prática
-- desenvolver capacidade real de análise e resolução de problemas
+- construir capacidade real de análise e resolução de problemas
 
-Não quero ser apenas alguém que usa bibliotecas e executa modelos prontos.
-Quero me tornar uma pessoa capaz de entender o problema, estruturar hipóteses, testar, analisar, validar e propor soluções com fundamento.
+Não quero ser apenas alguém que usa bibliotecas prontas.
+Quero entender o porquê das coisas e desenvolver maturidade técnica.
 
 ---
 
 ## Estrutura principal da trilha
 
-A trilha seguirá esta lógica:
+A trilha seguirá esta ordem:
 
 1. Matemática
 2. Estatística
-3. Econometria e regressão
-4. Programação (Python e SQL)
+3. Econometria / regressão
+4. Programação para dados
 5. Análise exploratória de dados
 6. Machine Learning
 7. Deep Learning
 8. MLOps
 
-> A prioridade atual está nas fases iniciais, principalmente Matemática e Estatística.
+> Baseado na lógica do roadmap de AI and Data Scientist, que organiza a formação começando em Mathematics e Statistics antes de Coding, EDA e Machine Learning.  
+> Referência: https://roadmap.sh/pdfs/roadmaps/ai-data-scientist.pdf
 
 ---
 
-## Foco atual
+## Prioridade atual
 
-### Prioridade principal
-- Construir base forte em matemática e estatística
-- Aprender teoria aos poucos com livros em português
-- Evoluir em Python e SQL como apoio à análise
-- Seguir com Ciência de Dados sem pressa
+### Trilha principal
+- Matemática
+- Estatística
 
-### Em foco
+### Trilha de apoio
+- Python
+- SQL
+- notebooks
+- exercícios
+
+### Trilha de manutenção
+- Certificado IBM
 - Faculdade
+- Big Data
 - Inglês diário
-- Cursos da Coursera
-- Estatística e matemática para ML
-- Formação sólida antes de avançar para ML mais pesado
 
 ---
 
 ## Cursos atuais
 
 ### Coursera
-- Em andamento - [Estatísticas para ciência de dados com Python](https://www.coursera.org/learn/statistics-for-data-science-python/home/module/1)
-- Em andamento - [Certificado Profissional de Ciência de Dados da IBM](https://www.coursera.org/professional-certificates/ibm-data-science)
-- Em andamento - [Introdução ao Big Data](https://www.coursera.org/learn/introducao-big-data)
+- Em andamento - Estatísticas para ciência de dados com Python
+- Em andamento - Certificado Profissional de Ciência de Dados da IBM
+- Em andamento - Introdução ao Big Data
 
 ### Faculdade
 - Em andamento - Tecnologia de Ciência de Dados
 
 ### Finalizados
-- [Fundamentos da análise de dados](https://www.linkedin.com/learning/certificates/1433d590a6fe42efa6aea4c937779a6dd7df8edbf2ac86c94b4313157bae046a)
+- Fundamentos da análise de dados
 
 ---
 
-## Ordem dos estudos
+## Livros da fase atual
 
-## Fase 1 — Base matemática
-Objetivo:
-- fortalecer raciocínio lógico e quantitativo
-- preparar o terreno para estatística e machine learning
-
-Tópicos:
-- álgebra básica
-- funções
-- proporções
-- gráficos
-- noções de cálculo
-- vetores e matrizes
-- matemática para ML
-
-Status:
-- [ ] Em andamento
-- [ ] Organizar livros e materiais
-
----
-
-## Fase 2 — Base estatística
-Objetivo:
-- entender os fundamentos da análise estatística
-- aprender a pensar com dados
-- desenvolver inferência e leitura crítica
-
-Tópicos:
-- estatística descritiva
-- distribuições
-- probabilidade
-- amostragem
-- CLT
-- intervalos de confiança
-- testes de hipótese
-- desenho de experimentos
-- A/B testing
-- regressão inicial
-
-Status:
-- [ ] Em andamento
-
-### Livros da fase
-1. **Pense em Estatística**
-2. **A arte da estatística**
-3. **Estatística prática para cientistas de dados**
-4. **Estatística e Ciência de Dados**
-
----
-
-## Fase 3 — Programação para dados
-Objetivo:
-- usar Python e SQL como ferramentas para aplicar os conceitos
-
-Tópicos:
-- Python
-- pandas
-- numpy
-- visualização
-- notebooks
-- SQL
-- consultas analíticas
-
-Status:
-- [ ] Em andamento
-
----
-
-## Fase 4 — Análise exploratória de dados
-Objetivo:
-- conectar teoria estatística com análise real
-- aprender a entender os dados antes de modelar
-
-Tópicos:
-- limpeza
-- análise exploratória
-- visualização
-- padrões
-- outliers
-- relacionamento entre variáveis
-- leitura crítica de bases
-
-Status:
-- [ ] Futuro próximo
-
----
-
-## Fase 5 — Machine Learning
-Objetivo:
-- entrar em modelagem depois da base construída
-
-Tópicos:
-- regressão
-- classificação
-- métricas
-- validação
-- overfitting
-- feature engineering
-- interpretação de modelos
-
-Status:
-- [ ] Futuro
-
----
-
-## Livros principais da trilha
-
-### Livro principal atual
+### Livro principal
 - **Pense em Estatística**
 
-### Livro de apoio atual
+### Livro de apoio
 - **A arte da estatística**
 
-### Próximos livros
+### Próximos
 - **Estatística prática para cientistas de dados**
 - **Estatística e Ciência de Dados**
 - **Data Science do Zero**
 
 ---
 
-## Sistema de estudo
+## Cronograma macro — 24 semanas
 
-### Estrutura semanal
-- Matemática / estatística: bloco principal
-- Curso atual: bloco secundário
-- Python / SQL: bloco de apoio
-- Exercícios / notebook: bloco prático
-- Revisão e organização: bloco semanal
+### Bloco 1 — Semanas 1 a 4
+Foco:
+- álgebra básica
+- funções
+- gráficos
+- estatística descritiva
 
-### Regras da trilha
-- não acelerar para ML sem base
-- não estudar muitos livros ao mesmo tempo
-- manter 1 livro principal e 1 de apoio
-- registrar evolução semanalmente
-- sempre ligar teoria com prática
+### Bloco 2 — Semanas 5 a 8
+Foco:
+- pré-cálculo leve
+- probabilidade básica
+- combinatória introdutória
+
+### Bloco 3 — Semanas 9 a 12
+Foco:
+- amostragem
+- distribuição amostral
+- CLT
+- intervalos de confiança
+
+### Bloco 4 — Semanas 13 a 16
+Foco:
+- testes de hipótese
+- erro tipo I e II
+- poder do teste
+- comparação entre grupos
+
+### Bloco 5 — Semanas 17 a 20
+Foco:
+- desenho de experimentos
+- A/B testing
+- regressão inicial
+- EDA
+
+### Bloco 6 — Semanas 21 a 24
+Foco:
+- regressão
+- interpretação
+- revisão da base
+- entrada mais madura em DS
 
 ---
 
-## Progresso
+## Cronograma semanal
+
+### Segunda
+- Matemática — 1h30
+- Inglês — 20 min
+
+### Terça
+- Estatística — 1h30
+- Python prático — 45 min
+
+### Quarta
+- Matemática — 1h30
+- Curso IBM / Coursera — 45 min
+
+### Quinta
+- Estatística — 1h30
+- SQL / notebook — 45 min
+
+### Sexta
+- Revisão da semana — 1h
+- Inglês — 20 min
+- Faculdade / pendências — 40 min
+
+### Sábado
+- Estudo principal — 2h
+- Exercícios / resumos — 1h
+- Curso secundário — 1h
+
+### Domingo
+- Revisão geral — 1h
+- Planejamento da semana — 30 min
+- Big Data / manutenção — 45 min
+
+---
+
+## Regras da trilha
+
+- Não avançar para ML sem base
+- Não estudar muitos livros ao mesmo tempo
+- Manter 1 livro principal e 1 livro de apoio
+- Registrar evolução semanalmente
+- Sempre ligar teoria com prática
+- Manter Big Data e outros temas como manutenção, não como prioridade principal
+
+---
+
+## Checklist da fase atual
 
 ### Matemática
-- [ ] Organizar sequência inicial de estudo
-- [ ] Definir materiais principais
-- [ ] Registrar tópicos concluídos
+- [ ] Revisar álgebra básica
+- [ ] Revisar funções e gráficos
+- [ ] Avançar para pré-cálculo
 
 ### Estatística
-- [ ] Iniciar leitura de **Pense em Estatística**
-- [ ] Criar caderno de anotações
-- [ ] Fazer exercícios em Python
-- [ ] Ler **A arte da estatística** em paralelo
+- [ ] Iniciar / avançar em Pense em Estatística
+- [ ] Ler A arte da estatística em paralelo
+- [ ] Fazer exercícios práticos
+- [ ] Criar resumos por capítulo
 
-### Ciência de Dados
-- [ ] Continuar Certificado IBM
-- [ ] Continuar curso de Estatísticas para DS com Python
-- [ ] Continuar Introdução ao Big Data
-- [ ] Organizar pequenos projetos
+### Programação
+- [ ] Manter Python em paralelo
+- [ ] Manter SQL em paralelo
+- [ ] Criar notebooks simples de apoio
 
-### Base técnica
-- [ ] Evoluir em Python
-- [ ] Evoluir em SQL
+### Formação contínua
+- [ ] Continuar certificado IBM
+- [ ] Continuar faculdade
+- [ ] Manter inglês diário
+- [ ] Manter Big Data em ritmo leve
+
+---
+
+## Progresso semanal
+
+### Semana atual
+- Foco principal:
+- Capítulos estudados:
+- Exercícios feitos:
+- Dificuldades encontradas:
+- Próximo passo:
 
 ---
 
 ## Direção de longo prazo
 
-Quero formar uma base tão sólida que eu consiga:
+Quero formar uma base sólida para:
 - entender problemas complexos com clareza
 - analisar dados com fundamento
 - testar hipóteses corretamente
-- criar soluções mais robustas
+- construir soluções mais robustas
 - entrar em Machine Learning com maturidade
 - atuar em Ciência de Dados sem depender apenas de receita pronta
 
