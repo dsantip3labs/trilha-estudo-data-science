@@ -17,7 +17,7 @@ O cronograma foi organizado em três camadas:
 ### Trilha de manutenção
 - Faculdade
 - cursos da Coursera
-- Big Data
+- Khan Academy
 - inglês
 
 ---
@@ -43,86 +43,95 @@ O cronograma foi organizado em três camadas:
 - big data
 
 ---
+# Cronograma de Estudos
 
-## Cronograma macro — 24 semanas
+## Estrutura diária
 
-### Bloco 1 — Semanas 1 a 4
+Tempo total: **1h30 por dia**
+
+- 1h — estudo principal (matemática ou estatística)
+- 30 min — curso IBM
+
+---
+
+## Organização semanal
+
+### Segunda a Quarta — Matemática
 Foco:
 - álgebra básica
 - funções
 - gráficos
+- base matemática
+
+Estrutura:
+- 10 min revisão
+- 35 min estudo
+- 15 min exercícios
+
+---
+
+### Quinta a Sábado — Estatística
+Foco:
 - estatística descritiva
+- conceitos iniciais
+- raciocínio estatístico
 
-### Bloco 2 — Semanas 5 a 8
-Foco:
-- pré-cálculo leve
-- probabilidade básica
-- combinatória introdutória
-
-### Bloco 3 — Semanas 9 a 12
-Foco:
-- amostragem
-- distribuição amostral
-- CLT
-- intervalos de confiança
-
-### Bloco 4 — Semanas 13 a 16
-Foco:
-- testes de hipótese
-- erro tipo I e II
-- poder do teste
-- comparação entre grupos
-
-### Bloco 5 — Semanas 17 a 20
-Foco:
-- desenho de experimentos
-- A/B testing
-- regressão inicial
-- EDA
-
-### Bloco 6 — Semanas 21 a 24
-Foco:
-- regressão
-- interpretação
-- revisão da base
-- entrada mais madura em DS
+Estrutura:
+- 10 min revisão
+- 35 min leitura
+- 15 min anotação e reflexão
 
 ---
 
-## Cronograma semanal sugerido
+### Curso diário (IBM)
 
-### Segunda
-- Matemática — 1h30
-- Inglês — 20 min
+Tempo: 30 min por dia
 
-### Terça
-- Estatística — 1h30
-- Python prático — 45 min
+Objetivo:
+- manter contato com ciência de dados
+- complementar a trilha
 
-### Quarta
-- Matemática — 1h30
-- Curso IBM / Coursera — 45 min
-
-### Quinta
-- Estatística — 1h30
-- SQL / notebook — 45 min
-
-### Sexta
-- Revisão da semana — 1h
-- Inglês — 20 min
-- Faculdade / pendências — 40 min
-
-### Sábado
-- Estudo principal — 2h
-- Exercícios / resumos — 1h
-- Curso secundário — 1h
-
-### Domingo
-- Revisão geral — 1h
-- Planejamento da semana — 30 min
-- Big Data / manutenção — 45 min
+Regra:
+- sem pressa
+- sem maratonar
+- sem substituir fundamentos
 
 ---
+
+## Domingo
+
+Opcional:
+- revisão leve
+- organização da semana
+- descanso
+
+---
+
+## Modos de estudo
+
+### Modo normal
+- 1h estudo principal
+- 30 min IBM
+
+### Modo mínimo (dias ruins)
+- 15 min estudo principal
+- 15 min IBM
+
+---
+
+## Regras do cronograma
+
+- consistência > intensidade
+- base vem antes de velocidade
+- não misturar muitas frentes pesadas
+- sempre revisar
+- registrar progresso semanal
+
+---
+
+## Objetivo
+
+Criar consistência, construir base sólida e evoluir de forma sustentável em matemática, estatística e ciência de dados.
 
 ## Como estudar
 

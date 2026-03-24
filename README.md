@@ -6,6 +6,15 @@ Quero construir uma base forte em matemática, estatística e raciocínio analí
 
 ---
 
+## Resumo atual para não esquecer
+
+
+Focar em matematica e estatistica.
+Anotar o que está em foco dos estudos agora em Foco atual e cursos.
+
+
+
+
 ## Filosofia da trilha
 
 - começar pela base
@@ -36,6 +45,11 @@ A trilha seguirá, de forma gradual, esta direção:
 - Matemática
 - Estatística
 
+### Estudos
+
+- Aritmética - Khan Academy - Atual
+- Álgebra linear para aprendizado de máquina e ciência de dados - Coursera - Atual
+
 ### Apoio
 - Python
 - SQL
@@ -52,9 +66,9 @@ A trilha seguirá, de forma gradual, esta direção:
 ## Largada da trilha
 
 ### Fase 0 — Preparação
-- organizar repositório
-- definir rotina mínima
-- separar materiais
+- organizar repositório - OK
+- definir rotina mínima - OK
+- separar materiais - OK
 - iniciar acompanhamento de progresso
 
 ### Fase 1 — Fundação inicial
@@ -89,9 +103,19 @@ A trilha seguirá, de forma gradual, esta direção:
 ### Livros
 - **Pense em Estatística**
 - **A arte da estatística**
-- **Pré-Cálculo – Uma Preparação para o Cálculo**
+- **Pré-Cálculo – Uma Preparação para o Cálculo** - NÃO INICIADO, VOU DEIXAR DE STANDBY
 
 ### Cursos
+
+- Aritmética - Khan Academy - Atual
+- Álgebra linear para aprendizado de máquina e ciência de dados - Coursera - Atual
+
+---
+
+- Pré-Álgebra
+- Álgebra
+- Álgebra linear para aprendizado de máquina e ciência de dados - Logo após aritmética
+- Algebra: Elementary to Advanced
 - Estatísticas para Ciência de Dados com Python
 - Certificado Profissional de Ciência de Dados da IBM
 - Introdução ao Big Data
