@@ -13,8 +13,6 @@ Focar em matematica e estatistica.
 Anotar o que está em foco dos estudos agora em Foco atual e cursos.
 
 
-
-
 ## Filosofia da trilha
 
 - começar pela base
@@ -56,53 +54,101 @@ A trilha seguirá, de forma gradual, esta direção:
 - Inglês
 - Cursos em andamento
 
-### Manutenção
-- Faculdade
-- Big Data
-- Formação complementar
-
 ---
 
 ## Largada da trilha
 
-### Fase 0 — Preparação
-- organizar repositório - OK
-- definir rotina mínima - OK
-- separar materiais - OK
-- iniciar acompanhamento de progresso
+### Fase 0 — Reconstrução da base
 
-### Fase 1 — Fundação inicial
+aritmética
+frações, decimais e porcentagem
+razão e proporção
+regra de sinais
+potências e raízes
+leitura de gráficos simples
+
+Objetivo: parar de travar em conta básica e interpretação visual.
+Sinal para avançar: você resolve exercícios básicos sem depender toda hora da resposta.
+
+### Fase 1 — Fundação algébrica e estatística inicial
+
 - álgebra básica
+- equações e inequações simples
 - funções
 - gráficos
 - estatística descritiva
+- média, mediana, moda
+- variância e desvio padrão
+- tabelas, histogramas e boxplots
+
+Objetivo: entender relação entre variáveis e resumir dados corretamente.
+Sinal para avançar: você já consegue olhar um gráfico ou tabela e explicar o que está acontecendo.
 
 ### Fase 2 — Ponte matemática e probabilidade
-- pré-cálculo
-- probabilidade
+
+- pré-cálculo leve
+- probabilidade básica
+- contagem básica
+- eventos independentes e condicionais
 - amostragem
 - variáveis aleatórias
+- distribuições mais comuns
+
+Objetivo: construir a ponte entre matemática escolar e estatística mais séria.
+
+Sinal para avançar: você entende chance, distribuição e amostra sem decorar frase pronta.
 
 ### Fase 3 — Inferência estatística
+
 - distribuição amostral
-- CLT
+- Teorema Central do Limite
+- estimação
 - intervalos de confiança
 - testes de hipótese
+- noções de erro tipo I e II
+- interpretação prática de resultados
 
-### Fase 4 — Entrada madura em DS
+Objetivo: sair da estatística descritiva e começar a tirar conclusões com base em dados.
+
+Sinal para avançar: você já entende o raciocínio por trás de comparar grupos e validar hipóteses.
+
+### Fase 4 — Entrada aplicada em Data Science
+
+- Python para análise
+- pandas
+- visualização de dados
 - EDA
+- SQL aplicado
 - regressão inicial
 - desenho de experimentos
 - A/B testing
-- SQL mais aplicado
+
+Objetivo: começar a usar a base matemática e estatística em problemas reais.
+
+Sinal para avançar: você já consegue abrir uma base, explorar, gerar insights e fazer análises simples com segurança.
+
+### Fase 5 — Machine Learning inicial
+
+- regressão linear
+- regressão logística
+- classificação
+- métricas de avaliação
+- overfitting e underfitting
+- validação
+- feature engineering básico
+
+Objetivo: entrar em ML sem virar operador de biblioteca.
+
+Sinal para avançar: você entende o que o modelo está fazendo e não só roda código.
 
 ---
 
 ## Materiais atuais
 
 ### Livros
-- **Pense em Estatística**
-- **A arte da estatística**
+
+- **Pense em Estatística** - INICIADO, DE QUINTA A SABADO
+- **A arte da estatística** - NÃO INICIADO
 - **Pré-Cálculo – Uma Preparação para o Cálculo** - NÃO INICIADO, VOU DEIXAR DE STANDBY
 
 ### Cursos
@@ -120,16 +166,6 @@ A trilha seguirá, de forma gradual, esta direção:
 - Certificado Profissional de Ciência de Dados da IBM
 - Introdução ao Big Data
 - Faculdade de Ciência de Dados
-
----
-
-## Organização do repositório
-
-- [Roadmap completo](./roadmap/README.md)
-- [Cronograma de estudos](./cronograma/README.md)
-- [Livros e ordem de leitura](./livros/README.md)
-- [Cursos e trilhas complementares](./cursos/README.md)
-- [Progresso e checkpoints](./progresso/README.md)
 
 ---
 
